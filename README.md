@@ -1,4 +1,4 @@
 # Priya-Saroj_Assignments
-###Git and Github
-###MongoDB
-###Core Java
+1. Git and Github
+2. MongoDB
+3. Core Java
